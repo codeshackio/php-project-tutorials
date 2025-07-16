@@ -1,8 +1,6 @@
 # A Curated Collection of Practical PHP Project Tutorials
 
-Welcome, developers! This repository is your central hub for the complete collection of project-based PHP tutorials from [CodeShack.io](https://codeshack.io). We believe the best way to learn is by building. Here, you won't just find code snippets; you'll find comprehensive, step-by-step guides to creating real-world, full-stack applications from the ground up.
-
-Whether you're building a secure login system, an e-commerce platform, or a live support chat, these tutorials are designed to give you the practical skills you need to succeed as a web developer.
+Hey coders! This is your reference repository for all project-based PHP tutorials on CodeShack.io. We think learning best happens by making things. You won't only find some code snippets here; you'll have detailed, step-by-step tutorials on making real-world, full-stack apps from scratch.
 
 ### Tutorial Categories at a Glance
 
